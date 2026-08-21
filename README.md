@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- TOP HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=AYUSH%20SONI&fontSize=44&fontColor=D4AF37&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Framer%20%26%20Webflow%20Architect%20%E2%80%A2%203D%20WebGL%20Developer&descFontSize=15&descAlignY=62&descColor=FFFFFF" width="100%" alt="Ayush Soni Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=AYUSH%20SONI&fontSize=44&fontColor=D4AF37&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Framer%20and%20Webflow%20Architect%20%E2%80%A2%203D%20WebGL%20Developer&descFontSize=15&descAlignY=62&descColor=FFFFFF" width="100%" alt="Ayush Soni Header" />
 
   <!-- DYNAMIC TYPING SUBTITLE -->
   <a href="https://github.com/ayushsoni05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Framer+Interactive+Prototypes+%26+Production+Websites;Webflow+Custom+CMS+%26+Award-Winning+Design+Systems;Full-Stack+MERN+%26+Next.js+Software+Architect;3D+WebGL+%26+Three.js+Experiential+Developer;AI+Vision+%26+Intelligent+E-Commerce+Pipelines" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Framer+Interactive+Prototypes+and+Websites;Webflow+Custom+CMS+and+Design+Systems;Full-Stack+MERN+and+Next.js+Software+Architect;3D+WebGL+and+Three.js+Experiential+Developer;AI+Vision+and+Intelligent+E-Commerce+Pipelines" alt="Typing Subtitle" />
   </a>
 
   <br/>
@@ -46,8 +46,8 @@
 
 I am a **Creative Full-Stack Software Engineer & Interactive Webflow / Framer Architect**. I specialize in creating web experiences that combine **no-code / low-code design systems** with **hardcore full-stack engineering, 3D WebGL graphics, and AI integrations**.
 
-- **Framer & Webflow Specialization**: Rapid high-fidelity visual development, custom GSAP/CSS animations, interactive CMS architectures, and bridging design prototypes into production React codebases.
-- **3D & Creative Development**: Three.js, React Three Fiber, parametric 3D configurators, custom shaders, and real-time WebGL rendering.
+- **Framer and Webflow Specialization**: Rapid high-fidelity visual development, custom GSAP/CSS animations, interactive CMS architectures, and bridging design prototypes into production React codebases.
+- **3D and Creative Development**: Three.js, React Three Fiber, parametric 3D configurators, custom shaders, and real-time WebGL rendering.
 - **Full-Stack Engineering**: React.js, Next.js, Node.js, Express.js, MongoDB, RESTful APIs, and secure payment integrations (Razorpay, Stripe).
 - **AI Computer Vision**: Image analysis pipelines, feature detection algorithms, and real-time canvas visual processing.
 
@@ -68,12 +68,12 @@ I am a **Creative Full-Stack Software Engineer & Interactive Webflow / Framer Ar
     <thead>
       <tr>
         <th align="left">Creative Domain</th>
-        <th align="left">Frameworks, Tools & Platforms</th>
+        <th align="left">Frameworks, Tools and Platforms</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><b>Framer & Webflow Design</b></td>
+        <td><b>Framer and Webflow Design</b></td>
         <td>
           <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white" />
           <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
@@ -83,7 +83,7 @@ I am a **Creative Full-Stack Software Engineer & Interactive Webflow / Framer Ar
         </td>
       </tr>
       <tr>
-        <td><b>3D WebGL & Creative Tech</b></td>
+        <td><b>3D WebGL and Creative Tech</b></td>
         <td>
           <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
           <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=react&logoColor=white" />
@@ -101,7 +101,7 @@ I am a **Creative Full-Stack Software Engineer & Interactive Webflow / Framer Ar
         </td>
       </tr>
       <tr>
-        <td><b>Backend & Cloud Architecture</b></td>
+        <td><b>Backend and Cloud Architecture</b></td>
         <td>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -121,7 +121,7 @@ I am a **Creative Full-Stack Software Engineer & Interactive Webflow / Framer Ar
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left"><b>Glimmr — Luxury 3D Atelier & Bespoke Jewelry</b></h3>
+      <h3 align="left"><b>Glimmr — Luxury 3D Atelier and Bespoke Jewelry</b></h3>
       <p>An enterprise-grade luxury e-commerce platform blending <b>real-time Three.js 3D WebGL modeling</b>, <b>Framer Motion micro-interactions</b>, and <b>Computer Vision Photo AI</b>.</p>
       <ul>
         <li><b>Framer Motion Interactions</b>: Fluid layout transitions, spring physics modal cards, and interactive sliders.</li>
@@ -139,7 +139,7 @@ I am a **Creative Full-Stack Software Engineer & Interactive Webflow / Framer Ar
       <a href="https://github.com/ayushsoni05/Glimmr-Jewellry-E-Commerce-Platform"><b>View Repository &rarr;</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left"><b>Framer & Webflow Interactive Design Experience Suite</b></h3>
+      <h3 align="left"><b>Framer and Webflow Interactive Design Experience Suite</b></h3>
       <p>A production-ready suite of interactive landing pages, component design systems, and responsive web applications built with <b>Webflow CMS</b>, <b>Framer Motion</b>, and custom React integrations.</p>
       <ul>
         <li><b>Fluid Scroll Physics</b>: Parallax layers, momentum scrolling, and custom SVG path-drawing triggers.</li>
@@ -178,7 +178,7 @@ I am a **Creative Full-Stack Software Engineer & Interactive Webflow / Framer Ar
 
 ---
 
-### **Connect & Collaborate**
+### **Connect and Collaborate**
 
 <div align="center">
 
